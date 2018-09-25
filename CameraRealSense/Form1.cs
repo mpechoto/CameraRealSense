@@ -23,8 +23,6 @@ namespace CameraRealSense
 
         
 
-
-
         public Form1()
         {
             InitializeComponent();
