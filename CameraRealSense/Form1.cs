@@ -42,6 +42,7 @@ namespace CameraRealSense
             //sm.captureManager.SetPause(true);
 
             for (; ; )
+
             {
                 //pxcmStatus sts = sm.AcquireFrame(true);
                 if (sm.AcquireFrame(true).IsError())
